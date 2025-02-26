@@ -85,40 +85,44 @@
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=juverasworld&theme=radical&bg_color=000000&line=F75C7E&point=FFFFFF&hide_border=true" width="100%"> </p>
 🏆 GitHub Trophies & Achievements (Public & Private Contributions)
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=juverasworld&theme=radical&no-frame=true&margin-w=15&row=1" width="100%"> </p>
-⚡ All Contribution Types (PRs, Issues, Code Reviews, Commits)
-🚀 Recent GitHub Activity Across All Repos & Organizations
-<!--START_SECTION:activity-->
-💡 Opened an issue in your-organization/your-repo
-🔥 Reviewed & approved a PR in another-org/cool-project
-🛠 Committed code to main branch in your-repo
-🚀 Opened a PR in big-open-source-project
-🎯 Commented on an issue in some-org/major-repo
-⭐ Starred a repository amazing-project
-<!--END_SECTION:activity-->
+
+
 🏅 Public & Private PR Contributions (All-Time)
 
 🌍 Contribution Heatmap (Across All Organizations & Private Repos)
 <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=juverasworld&theme=radical" width="100%"> </p>
-🎯 How This Works
-✅ Includes ALL contributions (public & private repos, PRs, issues, reviews, commits, stars)
-✅ Organization-wide contributions appear in the Contribution Graph & Activity Section
-✅ Updates dynamically to reflect your latest GitHub activity
-✅ The heatmap includes contributions across private, public, and organization repositories
 
 
 
 
 
+## 🎨 **Showcase: Stunning Frontend Projects**  
+
+### 🚀 [Animated Portfolio](https://github.com/your-username/animated-portfolio)  
+📝 **A stunning, fully animated personal portfolio using Framer Motion and TailwindCSS**  
+🌟 **Tech Stack**: **React, Next.js, Framer Motion, Tailwind CSS**  
+🔗 **GitHub Repo**: [here](https://github.com/your-username/animated-portfolio)  
+
+### 🔥 [3D Web Experience](https://bamboo-ravamp.vercel.app/)  
+📝 **A cutting-edge 3D interactive website using Three.js and GSAP**  
+🌟 **Tech Stack**: **Three.js, GSAP, React, Styled Components**  
+🔗 **GitHub Repo**: [here](https://github.com/juverasworld/Vema-tsela) 
+
+
+### 🔥 [E-Commerce ](https://work-eta-steel.vercel.app/)  
+📝 **A very responsive ecommerce platform where users can add to cart and also perform search functionalities**  
+🌟 **Tech Stack**: **Vite, React, Tailwind, react-redux**  
+🔗 **GitHub Repo**: [here](https://github.com/juverasworld/work)  
 
 
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obasi-vera-a8b155198/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vera_Ifebuche)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://vera-black.vercel.app/)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifebuchejulia@gmail.com)  
 
 ---
 
@@ -126,27 +130,3 @@
 
 
 
-## 🚀 About Me
-💻 I’m a passionate **developer** who loves coding and open-source.  
-📚 Always learning new technologies and improving my skills.  
-⚡ Fun fact: I love **coffee** ☕ and solving **challenging problems**.  
-
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juverasworld&show_icons=true&theme=radical" width="450px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juverasworld&theme=radical" width="450px">
-</p>
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-
----
-
-⭐ **Feel free to check out my repositories and contribute!**  
