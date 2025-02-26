@@ -86,6 +86,12 @@
 
 ## 🎨 **Showcase: Stunning Frontend Projects**  
 
+### 🚀 [A very simple and user centric wrist watch website](http://juverasworld.github.io/wrist-watch/#)  
+📝 **A stunning, fully animated and user centric webpage for the Vemo wrist watch brand showcasing everything that needs to be known about watch**  
+
+🔗 **GitHub Repo**: [here](https://github.com/juverasworld/wrist-watch)  
+
+
 ### 🚀 [Animated Portfolio](https://github.com/your-username/animated-portfolio)  
 📝 **A stunning, fully animated personal portfolio using Framer Motion and TailwindCSS**  
 🌟 **Tech Stack**: **React, Next.js, Framer Motion, Tailwind CSS**  
