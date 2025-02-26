@@ -62,25 +62,27 @@
 ### 💾 Backend & Databases  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### ☁️ Cloud & DevOps  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juverasworld&show_icons=true&theme=radical" width="450px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juverasworld&theme=radical" width="450px">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juverasworld&layout=compact&theme=radical" width="350px">
-</p>
+📊 GitHub Stats & Organization-Wide Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juverasworld&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="450px"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=juverasworld&theme=radical" width="450px"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juverasworld&layout=compact&theme=radical&langs_count=10&exclude_repo=github-readme-stats" width="350px"> </p>
+🚀 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=juverasworld&theme=radical&bg_color=000000&line=F75C7E&point=FFFFFF&hide_border=true" width="100%"> </p>
+🔥 Recent GitHub Activity (Across All Repos & Organizations)
+<!--START_SECTION:activity-->
+🎉 Merged PR #123 in your-organization/your-repo
+💬 Commented on issue #456 in another-org/another-repo
+🚀 Pushed code to main branch in your-repo
+🎯 Opened an issue in juverasworld/cool-project
+<!--END_SECTION:activity-->
+🏆 GitHub Trophies & Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=juverasworld&theme=radical&no-frame=true&margin-w=15&row=1" width="100%"> </p>
 
 📌 **Recent Activity**  
 <!--START_SECTION:activity-->
