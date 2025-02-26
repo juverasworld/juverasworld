@@ -38,10 +38,25 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### 🎨 Web Animations & Interactions  
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF476F?style=for-the-badge&logo=framer&logoColor=white)
+
+### 🎨 **Styling & UI Frameworks**  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### 🎬 **Animations & Micro-Interactions**  
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF476F?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=green)
 ![Lottie](https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottiefiles&logoColor=blue)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### 🌐 **Performance & Optimization**  
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
 
 ### 💾 Backend & Databases  
