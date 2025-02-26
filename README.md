@@ -1,15 +1,15 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Your Name</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/juverasworld">Vera</a> 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/raw/main/banner.gif" width="800px">
-</p><h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Your Name</a> 👋</h1>
+  <img src="https://github.com/juverasworld/juverasworld/raw/main/banner.gif" width="800px">
+</p><h1 align="center">Hi there, I'm <a href="https://github.com/juverasworld">Vera</a> 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/raw/main/banner.gif" width="800px">
+  <img src="https://github.com/juverasworld/juverasworld/raw/main/banner.gif" width="800px">
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Software+Engineer;Full+Stack+Developer;Open-Source+Enthusiast;Lifelong+Learner"></a>
+  <a href="https://github.com/juverasworld"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Software+Engineer;Full+Stack+Developer;Open-Source+Enthusiast;Lifelong+Learner"></a>
 </p>
 
 ---
@@ -50,33 +50,33 @@
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="450px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api?username=juverasworld&show_icons=true&theme=radical" width="450px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juverasworld&theme=radical" width="450px">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="350px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juverasworld&layout=compact&theme=radical" width="350px">
 </p>
 
 📌 **Recent Activity**  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/your-username/your-repo/pull/123) in **your-repo**
-2. 💬 Commented on issue [#456](https://github.com/your-username/another-repo/issues/456) in **another-repo**
+1. 🎉 Merged PR [#123](https://github.com/juverasworld/your-repo/pull/123) in **your-repo**
+2. 💬 Commented on issue [#456](https://github.com/juverasworld/another-repo/issues/456) in **another-repo**
 3. 🚀 Pushed code to `main` branch in **cool-project**
 <!--END_SECTION:activity-->
 
 ---
 
 ## 📚 Featured Projects  
-### 🚀 [Project Name](https://github.com/your-username/project-name)  
+### 🚀 [Project Name](https://github.com/juverasworld/project-name)  
 📝 **Description**: A brief description of your project.  
 🌟 **Tech Stack**: React, Node.js, MongoDB, TailwindCSS  
-🔗 **GitHub Repo**: [here](https://github.com/your-username/project-name)  
+🔗 **GitHub Repo**: [here](https://github.com/juverasworld/project-name)  
 
-### 🔥 [Another Project](https://github.com/your-username/another-project)  
+### 🔥 [Another Project](https://github.com/juverasworld/another-project)  
 📝 **Description**: A brief description of your project.  
 🌟 **Tech Stack**: Python, Flask, PostgreSQL  
-🔗 **GitHub Repo**: [here](https://github.com/your-username/another-project)  
+🔗 **GitHub Repo**: [here](https://github.com/juverasworld/another-project)  
 
 ---
 
@@ -105,8 +105,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="450px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api?username=juverasworld&show_icons=true&theme=radical" width="450px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juverasworld&theme=radical" width="450px">
 </p>
 
 ## 🌐 Connect with Me
