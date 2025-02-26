@@ -1,24 +1,12 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/juverasworld">Vera</a> 👋</h1>
+
+
+
+<h1 align="center">Heyyy,  I'm <a href="https://github.com/juverasworld">Vera</a> 👋</h1>
+
+
 
 <p align="center">
-  <img src="https://github.com/juverasworld/juverasworld/raw/main/banner.gif" width="800px">
-</p>
-
-<p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juverasworld/juverasworld/main/banner.png" width="100%">
-</p>
-
-</p>
-
-<h1 align="center">Hi there, I'm <a href="https://github.com/juverasworld">Vera</a> 👋</h1>
-
-<p align="center">
-  <img src="https://github.com/juverasworld/juverasworld/raw/main/banner.gif" width="800px">
-</p>
-
-<p align="center">
-  <a href="https://github.com/juverasworld"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Software+Engineer;Full+Stack+Developer;Open-Source+Enthusiast;Lifelong+Learner"></a>
+  <a href="https://github.com/juverasworld"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Frontend+Engineer;Web+Developer;Open-Source+Enthusiast;Lifelong+Learner"></a>
 </p>
 
 ---
