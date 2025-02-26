@@ -69,40 +69,39 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-
-📊 GitHub Stats & Organization-Wide Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juverasworld&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="450px"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=juverasworld&theme=radical" width="450px"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juverasworld&layout=compact&theme=radical&langs_count=10&exclude_repo=github-readme-stats" width="350px"> </p>
-🚀 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=juverasworld&theme=radical&bg_color=000000&line=F75C7E&point=FFFFFF&hide_border=true" width="100%"> </p>
-🔥 Recent GitHub Activity (Across All Repos & Organizations)
-<!--START_SECTION:activity-->
-🎉 Merged PR #123 in your-organization/your-repo
-💬 Commented on issue #456 in another-org/another-repo
-🚀 Pushed code to main branch in your-repo
-🎯 Opened an issue in juverasworld/cool-project
-<!--END_SECTION:activity-->
-🏆 GitHub Trophies & Achievements
+📊 GitHub Stats & Activity (All Contributions: PRs, Issues, Reviews, Commits, Organizations)
+🚀 Overall GitHub Stats (Private & Public Contributions)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juverasworld&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true" width="450px"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=juverasworld&theme=radical&hide_border=true" width="450px"> </p>
+🔥 Total Contribution Graph (All Repos & Organizations)
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=juverasworld&theme=radical&bg_color=000000&line=F75C7E&point=FFFFFF&hide_border=true" width="100%"> </p>
+🏆 GitHub Trophies & Achievements (Public & Private Contributions)
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=juverasworld&theme=radical&no-frame=true&margin-w=15&row=1" width="100%"> </p>
-
-📌 **Recent Activity**  
+⚡ All Contribution Types (PRs, Issues, Code Reviews, Commits)
+🚀 Recent GitHub Activity Across All Repos & Organizations
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/juverasworld/your-repo/pull/123) in **your-repo**
-2. 💬 Commented on issue [#456](https://github.com/juverasworld/another-repo/issues/456) in **another-repo**
-3. 🚀 Pushed code to `main` branch in **cool-project**
+💡 Opened an issue in your-organization/your-repo
+🔥 Reviewed & approved a PR in another-org/cool-project
+🛠 Committed code to main branch in your-repo
+🚀 Opened a PR in big-open-source-project
+🎯 Commented on an issue in some-org/major-repo
+⭐ Starred a repository amazing-project
 <!--END_SECTION:activity-->
+🏅 Public & Private PR Contributions (All-Time)
 
----
+🌍 Contribution Heatmap (Across All Organizations & Private Repos)
+<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=juverasworld&theme=radical" width="100%"> </p>
+🎯 How This Works
+✅ Includes ALL contributions (public & private repos, PRs, issues, reviews, commits, stars)
+✅ Organization-wide contributions appear in the Contribution Graph & Activity Section
+✅ Updates dynamically to reflect your latest GitHub activity
+✅ The heatmap includes contributions across private, public, and organization repositories
 
-## 📚 Featured Projects  
-### 🚀 [Project Name](https://github.com/juverasworld/project-name)  
-📝 **Description**: A brief description of your project.  
-🌟 **Tech Stack**: React, Node.js, MongoDB, TailwindCSS  
-🔗 **GitHub Repo**: [here](https://github.com/juverasworld/project-name)  
 
-### 🔥 [Another Project](https://github.com/juverasworld/another-project)  
-📝 **Description**: A brief description of your project.  
-🌟 **Tech Stack**: Python, Flask, PostgreSQL  
-🔗 **GitHub Repo**: [here](https://github.com/juverasworld/another-project)  
+
+
+
+
+
 
 ---
 
