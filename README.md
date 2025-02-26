@@ -2,7 +2,16 @@
 
 <p align="center">
   <img src="https://github.com/juverasworld/juverasworld/raw/main/banner.gif" width="800px">
-</p><h1 align="center">Hi there, I'm <a href="https://github.com/juverasworld">Vera</a> 👋</h1>
+</p>
+
+<p align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juverasworld/juverasworld/main/banner.png" width="100%">
+</p>
+
+</p>
+
+<h1 align="center">Hi there, I'm <a href="https://github.com/juverasworld">Vera</a> 👋</h1>
 
 <p align="center">
   <img src="https://github.com/juverasworld/juverasworld/raw/main/banner.gif" width="800px">
