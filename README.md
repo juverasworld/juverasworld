@@ -1,126 +1,293 @@
+ <!-- Replace your existing README.md with this -->
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,40:4C1D95,100:EC4899&text=VERA%20IFEBUCHE&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20IDEAS%20INTO%20DIGITAL%20REALITY&descSize=13&descAlignY=58&animation=fadeIn" width="100%" />
 
-<h1 align="center">Heyyy,  I'm <a href="https://github.com/juverasworld">Vera</a> 👋</h1>
+<br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+Product+Builder;Turning+problems+into+digital+products;Exploring+the+intersection+of+Tech+%26+Business;Building+things+that+actually+matter." alt="Typing SVG" />
 
+<br/><br/>
+
+<a href="https://obasi-vera.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-9333EA?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/obasivera/">
+<img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ifebuchejulia@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Say%20Hello-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=juverasworld&style=for-the-badge&color=9333EA&label=PROFILE+VISITORS" />
+
+</div>
+
+---
+
+<div align="center">
+
+# THE PERSON BEHIND THE CODE.
+
+### I don't just write code. I build things that solve problems.
+
+</div>
+
+I'm **Vera Ifebuche**, a web developer and product-minded technologist interested in the intersection of technology, business and practical problem-solving.
+
+I enjoy taking everyday problems, identifying opportunities for improvement, and turning those ideas into functional digital products.
+
+From building web applications and working with complex software systems to exploring AI-powered products, my approach has always been the same:
+
+**Understand the problem. Think through the solution. Build something useful.**
+
+Currently interested in:
+
+- Building and developing practical digital products.
+- Web application development and modern software architecture.
+- AI-powered products and intelligent user experiences.
+- Product thinking, product development and business technology.
+- Exploring how technology can make everyday processes better.
+
+I'm always learning, experimenting and building.
+
+**The goal isn't just to build more software. It's to build better solutions.**
+
+---
+
+<div align="center">
+
+# ⚡ MY TECH UNIVERSE
+
+*Tools are just tools. Knowing what to build with them is the real skill.*
+
+</div>
+
+### FRONTEND & WEB DEVELOPMENT
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,redux,vite" />
+</p>
+
+### BACKEND & DATABASES
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase,supabase,redis" />
+</p>
+
+### AI, PRODUCT & DEVELOPMENT TOOLS
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,git,github,docker,postman,figma,vscode,aws" />
+</p>
+
+### ALSO WORKING WITH
 
 <p align="center">
-  <a href="https://github.com/juverasworld"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Frontend+Engineer;Web+Developer;Open-Source+Enthusiast;Lifelong+Learner"></a>
+<img src="https://img.shields.io/badge/REST%20APIs-Integration-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GraphQL-APIs-E10098?style=for-the-badge&logo=graphql" />
+<img src="https://img.shields.io/badge/TanStack-Query-FF4154?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Powered%20Products-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Responsive-Web%20Apps-06B6D4?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me  
-💻 Passionate **developer** with expertise in **web & software development**  
-📚 Always learning new technologies and **sharing my knowledge**  
-🎯 Goal-oriented, **self-motivated**, and love to work on exciting projects  
-💡 Open to **collaborations & contributions** in **open-source**  
-⚡ Fun fact: I love **coffee ☕, AI 🤖, and solving complex problems 🧩**  
+<div align="center">
+
+# 🚀 THINGS I'VE BEEN BUILDING
+
+### Ideas are interesting. Working products are better.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Hirelyze AI
+
+<a href="https://hirelyze-ai.vercel.app/">
+<img src="https://placehold.co/600x300/171127/C084FC?text=HIRELYZE+AI" width="100%" />
+</a>
+
+An AI-powered career tool helping job seekers understand how their resumes perform against Applicant Tracking Systems.
+
+**What it does:**
+- ATS resume analysis.
+- Resume improvement insights.
+- Career preparation tools.
+
+**Stack:** AI · Web Development · Product Development
+
+<a href="https://hirelyze-ai.vercel.app/">LIVE PROJECT ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 NoWahala
+
+<a href="https://no-wahala.vercel.app/">
+<img src="https://placehold.co/600x300/101C1A/34D399?text=NOWAHALA" width="100%" />
+</a>
+
+A personal finance application designed to help people understand their spending, organise transactions and gain better financial visibility.
+
+**What it does:**
+- Spending insights.
+- Transaction organisation.
+- Personal finance visibility.
+
+**Stack:** React · Web Development · Data Insights
+
+<a href="https://no-wahala.vercel.app/">LIVE PROJECT ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 DataWise
+
+<a href="https://datawise-three.vercel.app/">
+<img src="https://placehold.co/600x300/101A30/60A5FA?text=DATAWISE" width="100%" />
+</a>
+
+A digital data management experience built around a familiar Nigerian problem: managing mobile data and staying on top of purchases.
+
+**What it does:**
+- Compare data plans.
+- Track data purchases.
+- Estimate refill timing.
+- Manage purchase history.
+
+<a href="https://datawise-three.vercel.app/">LIVE PROJECT ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⌚ Vemo — Wristwatch Experience
+
+<a href="https://juverasworld.github.io/wrist-watch/#">
+<img src="https://placehold.co/600x300/181818/E5E7EB?text=VEMO+WATCH" width="100%" />
+</a>
+
+An interactive, animated brand experience for a wristwatch concept, built with attention to presentation, responsiveness and user experience.
+
+**Focus:** Frontend Development · Animation · Brand Experience
+
+<a href="https://juverasworld.github.io/wrist-watch/#">LIVE PROJECT ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 Vema Tsela
+
+<a href="https://bamboo-ravamp.vercel.app/">
+<img src="https://placehold.co/600x300/10241D/86EFAC?text=VEMA+TSELA" width="100%" />
+</a>
+
+An experimental 3D web experience exploring immersive interfaces and interactive web design.
+
+**Focus:** Three.js · GSAP · Interactive Experiences
+
+<a href="https://bamboo-ravamp.vercel.app/">LIVE PROJECT ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ E-Commerce Experience
+
+<a href="https://work-eta-steel.vercel.app/">
+<img src="https://placehold.co/600x300/24172C/F0ABFC?text=E-COMMERCE" width="100%" />
+</a>
+
+A responsive e-commerce application featuring product browsing, shopping cart functionality and search.
+
+**Stack:** React · Vite · Tailwind CSS · Redux
+
+<a href="https://work-eta-steel.vercel.app/">LIVE PROJECT ↗</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Tech Stack & Tools  
-### 🚀 Programming & Markup Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<div align="center">
 
-## 🌟 Tech Stack & Tools  
-### 🚀 Frontend Development  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+# 📊 THE GITHUB CHRONICLES
 
+*Every commit tells a story. Every repository represents an experiment.*
 
-### 🎨 **Styling & UI Frameworks**  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<br/>
 
-### 🎬 **Animations & Micro-Interactions**  
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF476F?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=green)
-![Lottie](https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottiefiles&logoColor=blue)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juverasworld&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=EC4899&text_color=FFFFFF&include_all_commits=true" />
 
-### 🌐 **Performance & Optimization**  
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=juverasworld&theme=transparent&hide_border=true&background=0D1117&ring=C084FC&fire=EC4899&currStreakLabel=C084FC" />
 
+<br/><br/>
 
-### 💾 Backend & Databases  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juverasworld&bg_color=0D1117&color=C084FC&line=EC4899&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
+<br/>
 
-### ☁️ Cloud & DevOps  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=juverasworld&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
----
-📊 GitHub Stats & Activity (All Contributions: PRs, Issues, Reviews, Commits, Organizations)
-🚀 Overall GitHub Stats (Private & Public Contributions)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juverasworld&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true" width="450px"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=juverasworld&theme=radical&hide_border=true" width="450px"> </p>
-🔥 Total Contribution Graph (All Repos & Organizations)
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=juverasworld&theme=radical&bg_color=000000&line=F75C7E&point=FFFFFF&hide_border=true" width="100%"> </p>
-🏆 GitHub Trophies & Achievements (Public & Private Contributions)
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=juverasworld&theme=radical&no-frame=true&margin-w=15&row=1" width="100%"> </p>
-
-
-🏅 Public & Private PR Contributions (All-Time)
-
-🌍 Contribution Heatmap (Across All Organizations & Private Repos)
-<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=juverasworld&theme=radical" width="100%"> </p>
-
-
-
-
-
-## 🎨 **Showcase: Stunning Frontend Projects**  
-
-### 🚀 [A very simple and user centric wrist watch website](http://juverasworld.github.io/wrist-watch/#)  
-📝 **A stunning, fully animated and user centric webpage for the Vemo wrist watch brand showcasing everything that needs to be known about watch**  
-
-🔗 **GitHub Repo**: [here](https://github.com/juverasworld/wrist-watch)  
-
-
-### 🚀 [Animated Portfolio](https://github.com/your-username/animated-portfolio)  
-📝 **A stunning, fully animated personal portfolio using Framer Motion and TailwindCSS**  
-🌟 **Tech Stack**: **React, Next.js, Framer Motion, Tailwind CSS**  
-🔗 **GitHub Repo**: [here](https://github.com/your-username/animated-portfolio)  
-
-### 🔥 [3D Web Experience](https://bamboo-ravamp.vercel.app/)  
-📝 **A cutting-edge 3D interactive website using Three.js and GSAP**  
-🌟 **Tech Stack**: **Three.js, GSAP, React, Styled Components**  
-🔗 **GitHub Repo**: [here](https://github.com/juverasworld/Vema-tsela) 
-
-
-### 🔥 [E-Commerce ](https://work-eta-steel.vercel.app/)  
-📝 **A very responsive ecommerce platform where users can add to cart and also perform search functionalities**  
-🌟 **Tech Stack**: **Vite, React, Tailwind, react-redux**  
-🔗 **GitHub Repo**: [here](https://github.com/juverasworld/work)  
-
-
+</div>
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obasi-vera-a8b155198/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vera_Ifebuche)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://vera-black.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifebuchejulia@gmail.com)  
+<div align="center">
+
+# 🌍 BEYOND THE SCREEN
+
+</div>
+
+I believe technology should be understandable, accessible and useful.
+
+Outside writing code, I'm interested in:
+
+- **Technology & Innovation:** Understanding what's next and what it means for people.
+- **Product Development:** Turning ideas into solutions people can actually use.
+- **Knowledge Sharing:** Learning, teaching and making technology easier to understand.
+- **AI & Emerging Technology:** Exploring new ways to solve old problems.
+- **Continuous Growth:** Becoming better at my craft, one project at a time.
 
 ---
 
-⭐ **Check out my repositories and feel free to contribute!**  
+<div align="center">
 
+# 🤝 LET'S BUILD SOMETHING.
 
+Have an interesting idea, a challenging problem, a project worth collaborating on, or an opportunity to create something meaningful?
+
+I'd love to hear about it.
+
+<br/>
+
+<a href="mailto:ifebuchejulia@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20TALK-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/obasivera/">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### "The best way to predict the future is to build something that contributes to it."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:09090B&height=120&section=footer" width="100%" />
+
+**OBASI VERA · BUILDING THE FUTURE, ONE IDEA AT A TIME.**
+
+</div>
 
